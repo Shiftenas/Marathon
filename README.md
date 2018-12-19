@@ -1,2 +1,2 @@
 # Marathon
-Projet marathon, d'histoire interactive.
+Projet marathon d'histoire interactive.
